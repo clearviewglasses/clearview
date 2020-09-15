@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.trendygadgetreviews.com	TRUE	/	FALSE	1999999999	__cfduid	d88c4e54757173a0325b76fe1c45576401600063583
+clearview.trendygadgetreviews.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
